@@ -33,7 +33,7 @@ This is an intelligent QQ chatbot powered by Ollama (Local or Cloud-based Large 
 * Install and run [Ollama](https://ollama.com/). Pull a model using: `ollama pull [model_name]` (Ensure the model name matches the one specified in your Python script).
 * Deploy [NapCatQQ](https://github.com/NapNeko/NapCatQQ) and enable the **Forward WebSocket Service** (Default port: `3001`).
 
-### 2. Installation & Execution
+### 2. Installation /// Execution
 ```bash
 # Clone the repository
 
